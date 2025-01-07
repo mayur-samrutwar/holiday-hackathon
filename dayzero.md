@@ -1,11 +1,10 @@
-PR Format:
-Project Name: dayzero
+**Project Name:** 
+dayzero
 
+**Team Members:**
+astro - mayurrrr.lens
 
-Team Members: astro - mayurrrr.lens
-
-
-Project Description:
+**Project Description:**
 dayzero is commitment contest platform.
 
 people want to commit to something - be it an activity, a hobby, exercise routine or anything. but they often cheat since no one hold them accountable.
@@ -20,6 +19,11 @@ the current verification system is based on admin approval. we intend to extend 
  3. batch approval
 
 
-Source Code Link : https://github.com/mayur-samrutwar/dayzero
-Preview Link : https://dayzero-black.vercel.app
-Demo Video : https://www.loom.com/share/482054aeda644226a0d1599badf5dadf?sid=90d244a0-b498-496a-8c1a-a88bb5d0867a
+**Source Code Link:**
+https://github.com/mayur-samrutwar/dayzero
+
+**Preview Link:**
+https://dayzero-black.vercel.app
+
+**Demo Video:**
+https://www.loom.com/share/482054aeda644226a0d1599badf5dadf?sid=90d244a0-b498-496a-8c1a-a88bb5d0867a
