@@ -1,6 +1,10 @@
 PR Format:
 Project Name: dayzero
+
+
 Team Members: astro - mayurrrr.lens
+
+
 Project Description:
 dayzero is commitment contest platform.
 
@@ -11,14 +15,11 @@ dayzero ensures that you remain committed to your cause. join the challenge, or 
 you can start any time, you dont have wait for the new year or any big even. everyday is day zero to learn something new.
 
 the current verification system is based on admin approval. we intend to extend it to
-1. submitting and verifying the proof of work using reclaim protocol
-2. verifying using community voting
-3. batch approval
+ 1. submitting and verifying the proof of work using reclaim protocol
+ 2. verifying using community voting
+ 3. batch approval
 
 
-Source Code Link: https://github.com/mayur-samrutwar/dayzero
-Preview Link (Optional): https://dayzero-black.vercel.app
-Demo Video/Slide Deck Link (Optional): https://www.loom.com/share/482054aeda644226a0d1599badf5dadf?sid=90d244a0-b498-496a-8c1a-a88bb5d0867a
-Screenshots (Optional):
-
-lens testnet contract address: 0x4Ff11dA42eE8e82662533078f82AcAEc3f464BE1
+Source Code Link : https://github.com/mayur-samrutwar/dayzero
+Preview Link : https://dayzero-black.vercel.app
+Demo Video : https://www.loom.com/share/482054aeda644226a0d1599badf5dadf?sid=90d244a0-b498-496a-8c1a-a88bb5d0867a
